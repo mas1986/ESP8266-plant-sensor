@@ -1,0 +1,8 @@
+{
+    "board": "esp8266:esp8266:generic",
+    "configuration": "xtal=80,vt=flash,exception=legacy,ssl=all,ResetMethod=nodemcu,CrystalFreq=26,FlashFreq=40,FlashMode=dout,eesz=4M2M,led=2,sdk=nonosdk_190703,ip=lm2f,dbg=Serial,lvl=TLS_MEMHTTP_CLIENTHTTP_SERVER,wipe=none,baud=115200",
+    "port": "COM3",
+    "sketch2": "ESP8266_WebServerTemperature\\ESP8266_WebServerTemperature.ino",
+    "sketch": "ESP8266_Starter_Mqtt\\app.ino",
+    "sketch1": "ESP8266_Starter\\ESP8266_Starter.ino"
+}
